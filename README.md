@@ -1,1 +1,1 @@
-# 1st-hmtl-project
+This repository contains my first HTML project, showcasing basic web development skills. It includes a simple webpage structure with foundational HTML elements like headings, paragraphs, links, file under the another file using basic tags,tables and a simple form and images. Perfect for beginners looking to understand the core principles of HTML.
